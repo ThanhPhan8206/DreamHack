@@ -1,1 +1,7 @@
 # DreamHack
+## Day 01
+
+
+
+
+
